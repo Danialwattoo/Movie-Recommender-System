@@ -33,11 +33,6 @@ For a live demonstration of our Movie Recommender System, watch the following vi
 [![Watch the Demo](https://img.youtube.com/vi/0BJgu4qZqOM/0.jpg)](https://youtu.be/0BJgu4qZqOM)
 
 
-## Try the App
-
-Explore the Movie Recommender System yourself! Our app is deployed on Streamlit. Click the link below to get started:
-[**Movie Recommender System App**](https://movie-recommender-syst.streamlit.app/)
-
 ## Installation Guide
 
 Follow these steps to set up and run the application:
