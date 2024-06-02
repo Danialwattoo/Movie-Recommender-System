@@ -39,7 +39,7 @@ Follow these steps to set up and run the application:
 
 1. **Clone the Repository:** 
     ```bash
-    git clone https://github.com/AnupamMittal-21/Movie-Recommender-System.git
+    https://github.com/Danialwattoo/Movie-Recommender-System.git
     ```
 
 2. **Create a Virtual Environment:** 
