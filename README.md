@@ -20,7 +20,7 @@ Our Movie Recommender System, built using Python and Natural Language Processing
 
 ![Sample Image 3]![275335424-beb53c76-4cd1-466d-b32d-97a63555c043](https://github.com/Danialwattoo/Movie-Recommender-System/assets/153742416/6006b88b-7237-48c1-a676-3d486b619bed)
 
-![Sample Image 4]![Screenshot (11)]!(https://github.com/Danialwattoo/Movie-Recommender-System/assets/153742416/19585571-d891-4a5a-8c70-c6df7bd42dfb)
+![Sample Image 3]!(![Screenshot (13)](https://github.com/Danialwattoo/Movie-Recommender-System/assets/153742416/421773ac-3e0c-41fb-8152-48e115e39c36)
 )
 
 
